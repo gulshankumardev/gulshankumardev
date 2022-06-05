@@ -6,7 +6,7 @@
 - 😌  &nbsp; Pronouns with He / His
 - 🤦🏻‍♂️  &nbsp;&nbsp; Fun fact: still learning javascript
 - 🙊  &nbsp; Ask me about HTML, CSS, Javascript and Designing
-- ❤️  &nbsp; I'm in love with figma beause I started my career as a web designer
+- ❤️  &nbsp; I'm in love with Figma
 
 ---
 
